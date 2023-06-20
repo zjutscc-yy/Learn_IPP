@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Learn_IPP.iml" filepath="$PROJECT_DIR$/Learn_IPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gen_GPT/gen_GPT.iml" filepath="$PROJECT_DIR$/gen_GPT/gen_GPT.iml" />
+    </modules>
+  </component>
+</project>
